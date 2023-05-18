@@ -1,3 +1,5 @@
+//Detyra kerkon qe ne nje string ti largojm shkonjat qe perseriten dhe qe njera nga to eshte emadhe ndersa tjetra e vogel
+
 #include<iostream>
 #include<stack>
 #include<string>
@@ -15,7 +17,7 @@ using namespace std;
         }
 
         string rezultati;
-        
+
         while (!st.empty()) {
             rezultati += st.top();
             st.pop();

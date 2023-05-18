@@ -1,3 +1,5 @@
+//Detyra kerkon qe brenda nje vargu me kllapa ti largojm kllapat e jashtme dhe te krijojm nje varg te rregullt te kllapave p.sh. ()()()
+
 #include<iostream>
 #include<stack>
 using namespace std;
