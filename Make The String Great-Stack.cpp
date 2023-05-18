@@ -13,6 +13,7 @@ using namespace std;
                 st.push(c);
             }
         }
+
         string rezultati;
         
         while (!st.empty()) {
