@@ -23,7 +23,7 @@ using namespace std;
         return rezultati;
     }
 
-int main() { 
+int main() {
     string S = "abbaca";
     cout << removeDuplicates(S) << endl;
     return 0;
