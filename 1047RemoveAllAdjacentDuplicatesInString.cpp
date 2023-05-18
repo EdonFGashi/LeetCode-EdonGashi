@@ -24,7 +24,7 @@ using namespace std;
     }
 
 int main() {
-    string S = "abbaca";
+    string S = "abbaca"; 
     cout << removeDuplicates(S) << endl;
     return 0;
 }
