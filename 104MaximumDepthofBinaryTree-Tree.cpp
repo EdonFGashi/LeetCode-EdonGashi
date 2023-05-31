@@ -14,7 +14,7 @@ Kompleksiteti hapesinor poashtu eshte O(n) ku n eshte numri maksimal i femijeve 
 #include <queue>
 using namespace std;
 
-// Definition for a binary tree node
+// Definimi i pemes binare
 struct TreeNode {
     int val;
     TreeNode* left;
