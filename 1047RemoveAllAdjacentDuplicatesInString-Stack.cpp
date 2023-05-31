@@ -5,6 +5,12 @@ Nese stack nuk esht i zbrazet si dhe nese ai karakter gjendet ne stack ateher e 
 Pra i largojm elementet qe perseriten, ato qe me heret veq jan vendosur ne stack
 
 Ne fund elementet qe na kan mbetur ne stack i vendosim ne stringun rezultati, per ta kthyer si return
+
+Kompleksiteti kohor i ketij kodi eshte O(n), ku n eshte numri i karaktereve ne stringun hyres s, sepse ne cdo rast permes for loopit
+duhet qe te iterojm neper te gjitha ato karaktere per ti krahasuar
+Kompleksiteti hapesinor i ketij kodi eshte poashtu O(n) ku n eshte numri i karaktereve te stringut s
+sepse stringu rezultati ne rastin me te keq mund te ket karaktere sa vet stringu 
+hyres, ne rastin kur nuk ka shkronja qe perseriten
 */
 
 #include<iostream>
