@@ -1,5 +1,8 @@
 //Detyra kerkon qe ne nje string ti largojm shkonjat qe perseriten dhe qe njera nga to eshte emadhe ndersa tjetra e vogel
-
+/*
+                    Time: O(n)
+                    Space O(n)
+                    */
 #include<iostream>
 #include<stack>
 #include<string>

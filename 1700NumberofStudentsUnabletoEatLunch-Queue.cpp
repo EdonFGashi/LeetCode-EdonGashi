@@ -14,6 +14,9 @@ Pastaj nese gjendet studenti qe e merr ate ushqim, ai student largohet nga radha
 ndersa rritet numri i iterimeve (numri i studenteve qe po marrin ushqim). Pasi te perfundoj kjo loop, numri total i studenteve minus numrin e 
 studenteve qe kan marr ushqim, e paraqet numrin e studemteve qe kan mbetur pa ushqim.
 Per keto vlera rezultati duhet te jet 3.
+
+Time: O(n)
+Space: O(1)
 */
 #include<iostream>
 #include<vector>

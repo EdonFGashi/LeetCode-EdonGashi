@@ -8,6 +8,9 @@ tregon qe shkronja u perdor nje her. Kshtu per te gjitha shkronjat e stringut e 
 
 Ne fund permes nje for loopi kontrollojm se cila esht shkronja e par qe e ka frekuencen 1 pra qe esht perseritur nje her dhe e kthejm ate indeks
 Nese ajo nuk gjendet e kthejm vleren -1
+
+Time: O(n)
+Space: O(1)
 */
 
 #include<iostream>
