@@ -8,7 +8,7 @@
 using namespace std;
 
 
-//Definimi i listes se lidhur
+//Definimi i listes se lidhur 
 struct ListNode {
                         int val;
                         ListNode* next;
